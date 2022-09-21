@@ -19,6 +19,10 @@ h1 {
   letter-spacing: 8px;
 }
 
+#custom{
+  font-size: 15px;
+}
+
 .calculator-container {
   background-color: hsl(0deg, 0%, 100%);
   margin: auto;
